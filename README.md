@@ -1,6 +1,5 @@
 <html>
     <head>
-        <title>elemen css</title>
     </head>
     <body>
         <h1>
